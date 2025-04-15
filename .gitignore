@@ -26,3 +26,7 @@ build/
 # Env files (if used later)
 .env
 .env.*
+
+# IDE
+.idea/modules.xml
+.idea/oscar-portfolio.iml

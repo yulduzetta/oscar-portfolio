@@ -33,3 +33,10 @@ footer {
     bottom: 0;
     width: 100%;
 }
+.footer-background-image {
+    background: url('../images/piano-bg.jpg') no-repeat center center;
+    background-size: cover;
+    position: relative;
+    padding: 1em;
+    text-align: center;
+}
